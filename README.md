@@ -41,5 +41,5 @@ My plan is to allocate 4 months on each of the languages because I only have a y
 
 Day 1 of my journey learning C would:
 
-Start on: December 10, 2024
-Deadline: April 10, 2025
+- Start on: **December 10, 2024**
+- Deadline: **April 10, 2025**
